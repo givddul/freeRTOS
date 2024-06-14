@@ -23,4 +23,5 @@ The system should respond deterministically to changes in humidity and button pr
 
 The project demonstrated the advantages of using an RTOS for real-time applications, with it's deterministic behavior and efficient task scheduling. FreeRTOS outperformed MicroPython in handling concurrent tasks and maintaining consistent execution times down to milliseconds. The MicroPython system often delayed alarm activation due to blocking by other intensive tasks.
 
+## Setup
 <img src="RTOS-setup.jpg" alt="RTOS Setup" width="500"/>
